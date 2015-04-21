@@ -10,3 +10,6 @@ C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDet
 C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.csproj.GenerateResource.Cache
 C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.exe
 C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.pdb
+C:\Users\Elliott\Source\Repos\Sleep-Detection-via-Kinect\SleepDetectionViaKinect\SleepDetectionViaKinect\bin\Debug\SleepDetectionViaKinect.exe.config
+C:\Users\Elliott\Source\Repos\Sleep-Detection-via-Kinect\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.exe
+C:\Users\Elliott\Source\Repos\Sleep-Detection-via-Kinect\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.pdb

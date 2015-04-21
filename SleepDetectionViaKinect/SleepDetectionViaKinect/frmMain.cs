@@ -42,14 +42,14 @@ namespace SleepDetectionViaKinect
             startTime = System.DateTime.Now.ToOADate();
             dp = new DataPoint(startTime, currentYValue);
 
-            for(int x = 0; x < 10; x++)
-            {
-                this.sensor.DepthFrameReady = ;
-                CreateNewDataPoint(x + 1);
+            while (!end) {
+                //this.sensor.DepthFrameReady
+                //CreateNewDataPoint(x + 1);
                 if (end == true)
                 {
                     break;
                 }
+                System.Threading.Thread.Sleep(1000);
             }
             chSleepActivity.SaveImage(System.DateTime.Now.ToString() + "SleepTracker", ChartImageFormat.Jpeg);
         }
