@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.chSleepActivity = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.btnTrackSleep = new System.Windows.Forms.Button();
             this.btnEndSleep = new System.Windows.Forms.Button();
@@ -40,19 +40,19 @@
             // 
             // chSleepActivity
             // 
-            chartArea2.Name = "ChartArea1";
-            this.chSleepActivity.ChartAreas.Add(chartArea2);
-            legend2.Name = "Legend1";
-            this.chSleepActivity.Legends.Add(legend2);
+            chartArea4.Name = "ChartArea1";
+            this.chSleepActivity.ChartAreas.Add(chartArea4);
+            legend4.Name = "Legend1";
+            this.chSleepActivity.Legends.Add(legend4);
             this.chSleepActivity.Location = new System.Drawing.Point(12, 12);
             this.chSleepActivity.Name = "chSleepActivity";
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series2.Legend = "Legend1";
-            series2.Name = "Sleep Activity";
-            series2.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Time;
-            series2.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chSleepActivity.Series.Add(series2);
+            series4.ChartArea = "ChartArea1";
+            series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series4.Legend = "Legend1";
+            series4.Name = "Sleep Activity";
+            series4.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Time;
+            series4.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chSleepActivity.Series.Add(series4);
             this.chSleepActivity.Size = new System.Drawing.Size(622, 348);
             this.chSleepActivity.TabIndex = 0;
             this.chSleepActivity.Text = "chart1";
@@ -75,6 +75,7 @@
             this.btnEndSleep.TabIndex = 2;
             this.btnEndSleep.Text = "&End Sleep";
             this.btnEndSleep.UseVisualStyleBackColor = true;
+            this.btnEndSleep.Click += new System.EventHandler(this.btnEndSleep_Click);
             // 
             // btnExit
             // 
@@ -84,6 +85,7 @@
             this.btnExit.TabIndex = 3;
             this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // frmMain
             // 
