@@ -1,0 +1,12 @@
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\bin\Debug\SleepDetectionViaKinect.exe.config
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\bin\Debug\SleepDetectionViaKinect.exe
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\bin\Debug\SleepDetectionViaKinect.pdb
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.csprojResolveAssemblyReference.cache
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.frmMain.resources
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.Properties.Resources.resources
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.csproj.GenerateResource.Cache
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.exe
+C:\Users\Kramer\Documents\FullKinectApplication\SleepDetectionViaKinect\SleepDetectionViaKinect\obj\Debug\SleepDetectionViaKinect.pdb

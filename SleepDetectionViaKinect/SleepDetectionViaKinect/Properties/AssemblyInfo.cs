@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("KinectGraphingV1")]
+[assembly: AssemblyTitle("SleepDetectionViaKinect")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KinectGraphingV1")]
+[assembly: AssemblyProduct("SleepDetectionViaKinect")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b1c9c856-aaab-416a-8bdb-3926a7983dbc")]
+[assembly: Guid("fe6ba23c-9dc7-4612-bf03-710a0d5c999b")]
 
 // Version information for an assembly consists of the following four values:
 //

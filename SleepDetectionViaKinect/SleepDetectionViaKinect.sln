@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectGraphingV1", "KinectGraphingV1\KinectGraphingV1.csproj", "{104A53BF-BA87-4002-9CD3-ECDCC8AF87A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepDetectionViaKinect", "SleepDetectionViaKinect\SleepDetectionViaKinect.csproj", "{192212E9-2D17-459B-B903-E3B4FA9BE213}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{104A53BF-BA87-4002-9CD3-ECDCC8AF87A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{104A53BF-BA87-4002-9CD3-ECDCC8AF87A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{104A53BF-BA87-4002-9CD3-ECDCC8AF87A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{104A53BF-BA87-4002-9CD3-ECDCC8AF87A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192212E9-2D17-459B-B903-E3B4FA9BE213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192212E9-2D17-459B-B903-E3B4FA9BE213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192212E9-2D17-459B-B903-E3B4FA9BE213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192212E9-2D17-459B-B903-E3B4FA9BE213}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

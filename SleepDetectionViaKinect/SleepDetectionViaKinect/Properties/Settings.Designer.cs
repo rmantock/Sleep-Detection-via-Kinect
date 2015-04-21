@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace KinectGraphingV1.Properties
+namespace SleepDetectionViaKinect.Properties
 {
 
 
