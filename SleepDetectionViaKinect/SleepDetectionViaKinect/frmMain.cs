@@ -28,8 +28,10 @@ namespace SleepDetectionViaKinect
         {
             InitializeComponent();
         }
+
         private void frmMain_Load(object sender, EventArgs e)
         {
+            Console.WriteLine(sensor.Status);
             sleepActivity = chSleepActivity.Series["Sleep Activity"];
             if (sensor != null)
             {
@@ -37,26 +39,26 @@ namespace SleepDetectionViaKinect
                 sensor.Start();
             }
         }
+
         private void btnTrackSleep_Click(object sender, EventArgs e)
         {
             startTime = System.DateTime.Now.ToOADate();
             dp = new DataPoint(startTime, currentYValue);
 
+
             while (!end) {
                 //this.sensor.DepthFrameReady
                 //CreateNewDataPoint(x + 1);
-                if (end == true)
-                {
-                    break;
-                }
                 System.Threading.Thread.Sleep(1000);
             }
             chSleepActivity.SaveImage(System.DateTime.Now.ToString() + "SleepTracker", ChartImageFormat.Jpeg);
         }
+
         private void btnEndSleep_Click(object sender, EventArgs e)
         {
             end = true;
         }
+
         private void btnExit_Click(object sender, EventArgs e)
         {
             Close();
@@ -71,6 +73,7 @@ namespace SleepDetectionViaKinect
         }
 
         //Kinect Methods
+
         
     }
 }
